@@ -1,0 +1,605 @@
+\section{Exact Course Retrieval}
+
+Enter query: What is IKT450?
+
+Retrieved sources:
+1. IKT450 | IKT450 Deep Neural Networks (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt450.html
+   distance: 0.0000
+
+Answer:
+1. IKT450 is a free-standing course that offers 7.5 credits, focusing on deep neural networks and their applications, with a combination of lectures, assignments, paper studies, lab work, and report writing.
+
+• The course covers theoretical and practical aspects of neural networks, including fundamentals, architectures, optimizers, and training algorithms.
+• It has a graded portfolio assessment and a postponed exam, with an emphasis on practical programming experience with deep neural networks relevant to the industry.
+• The course is connected to the 5-year master's programme in Artificial Intelligence and other study programs, and admission requirements are similar to those for the master's program in ICT.
+• The course has overlapping contents with IKT466 (Introduction to Machine Learning) and IKT469 (Deep Neural Networks), which may lead to a reduction of credits if taken together.
+
+Enter query: What are the prerequisites for IKT211?
+
+Retrieved sources:
+1. IKT211 | IKT211 Penetration Testing (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt211.html
+   distance: 0.0000
+
+Answer:
+For IKT211 Penetration Testing (Autumn 2026), the prerequisites are:
+
+1. Prior knowledge corresponding to course IKT101 Fundamental Software Development, and good knowledge of Linux.
+2. The retrieved context does not explicitly state any additional prerequisites.
+
+Academic contrasts with DAT234 – Scripting and Hacking:
+• Course focus: While both courses deal with hacking and security, IKT211 focuses on penetration testing, whereas DAT234 covers scripting and hacking in general.
+• Credits overlap: Both courses have 5 credits, but the overlap is not explicitly stated to affect the credit reduction for IKT211.
+• Teaching methods: The retrieved context does not mention group work as a teaching method for IKT211, unlike DAT234.
+
+Enter query: How many credits is IKT468?
+
+Retrieved sources:
+No retrieval needed for this query.
+
+Answer:
+IKT468 — IKT468 Applied Algorithms (Spring 2026)
+Credits: 7.5
+Source: https://www.uia.no/english/studies/courses/2026/spring/ikt468.html
+
+Enter query: Is IKT115 a free-standing course?
+
+Retrieved sources:
+No retrieval needed for this query.
+
+Answer:
+IKT115 — IKT115 Introduction to Artificial Intelligence Technology (Autumn 2026)
+Free-standing course: No
+Source: https://www.uia.no/english/studies/courses/2026/autumn/ikt115.html
+
+
+
+\section{Comparisons}
+
+Enter query: Compare IKT450 and IKT469
+
+Retrieved sources:
+1. IKT450 | IKT450 Deep Neural Networks (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt450.html
+   distance: 0.0000
+2. IKT469 | IKT469 Deep Neural Networks (Spring 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt469.html
+   distance: 0.0000
+
+Answer:
+1. IKT450 and IKT469 are both free-standing courses on deep neural networks, but they differ in their focus and emphasis, with IKT450 covering more general aspects of neural networks and IKT469 focusing on advanced concepts and architectures.
+
+• IKT450 focuses on the foundations of neural networks, feed-forward and recurrent models, optimizers, and theoretical foundation, whereas IKT469 delves deeper into advanced deep learning foundations and architectures.
+• IKT450 emphasizes practical programming experience with deep neural networks, while IKT469 places more emphasis on understanding state-of-the-art architectures, explainability methods, and advanced optimization strategies.
+• The course materials for IKT469 cover a broader range of topics, including transformer models, multimodal representation learning, generative models, and graph neural networks, whereas IKT450 focuses on feed-forward and recurrent neural models.
+
+Enter query: Compare IKT211 and IKT518
+
+Retrieved sources:
+1. IKT211 | IKT211 Penetration Testing (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt211.html
+   distance: 0.0000
+2. IKT518 | IKT518 Security Protocols (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt518.html
+   distance: 0.0000
+
+Answer:
+1. IKT211 and IKT518 are both free-standing courses with 7.5 credits, taught in English, and have a duration of half a year, but they differ significantly in their focus, learning outcomes, and teaching methods.
+
+• IKT211 focuses on penetration testing, including network security, Linux knowledge, and common tools like netcat, wireshark, and nmap, whereas IKT518 deals with security protocols, specifically authentication and key-exchange protocols, and network layer security.
+• The learning outcomes of IKT211 emphasize the ability to test network security and use common tools, while IKT518 aims for a deeper understanding of security properties in protocol design, including IPsec, TLS, and EAP.
+• IKT211 includes lectures, lab exercises, and group projects, whereas IKT518 is described as providing a theoretical introduction to communication security with a focus on authentication and key-exchange protocols.
+
+Enter query: Compare IKT115 and IKT623
+
+Retrieved sources:
+1. IKT115 | IKT115 Introduction to Artificial Intelligence Technology (Autumn 2026)
+   Free-standing: No
+   Credits: 2.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt115.html
+   distance: 0.0000
+2. IKT623 | IKT623 Principles of Artificial Intelligence (Autumn 2025)
+   Free-standing: Yes
+   Credits: 5
+   https://www.uia.no/english/studies/courses/2025/autumn/ikt623.html
+   distance: 0.0000
+
+Answer:
+1. IKT115 and IKT623 differ in their focus, duration, and free-standing status, with IKT115 being a non-free-standing course with a longer duration, while IKT623 is a free-standing course with a shorter duration.
+
+• IKT115 focuses on providing a basic yet technically oriented introduction to artificial intelligence, whereas IKT623 delves deeper into the theory, foundations, implementation, and applications of AI.
+• IKT115 has a more practical approach, teaching students how to develop simple AI applications using user-friendly tools without programming skills, whereas IKT623 places greater emphasis on theoretical knowledge and research skills.
+• IKT115 is worth 2.5 credits, while IKT623 is worth 5 credits, indicating a greater level of complexity and depth in the latter course.
+
+
+
+\section{Semantic Search}
+
+Enter query: Which courses are about machine learning?
+
+Retrieved sources:
+1. IKT466 | IKT466 Introduction to Machine Learning (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt466.html
+   distance: 0.3113
+2. IKT725 | IKT725 Deep Reinforcement Learning (Spring 2026)
+   Free-standing: Yes
+   Credits: 5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt725.html
+   distance: 0.3177
+3. IKT724 | IKT724 Deep Learning for Engineers (Autumn 2026)
+   Free-standing: Yes
+   Credits: 5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt724.html
+   distance: 0.3213
+4. IKT112 | IKT112 Concepts of Machine Learning (Spring 2026)
+   Free-standing: Yes
+   Credits: 5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt112.html
+   distance: 0.3258
+5. IKT723 | IKT723 Wireless Prototyping using SDRs (Software Defined Radios) (Spring 2026)
+   Free-standing: Yes
+   Credits: 5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt723.html
+   distance: 0.3321
+6. IKT215 | IKT215 Pattern Recognition (Spring 2026)
+   Free-standing: Yes
+   Credits: 10
+   https://www.uia.no/english/studies/courses/2026/spring/ikt215.html
+   distance: 0.3390
+7. IKT457 | IKT457 Tsetlin Machines (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt457.html
+   distance: 0.3409
+8. IKT469 | IKT469 Deep Neural Networks (Spring 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt469.html
+   distance: 0.3411
+
+Answer:
+For comparison question about machine learning courses:
+
+1. IKT466 Introduction to Machine Learning (Autumn 2026) and IKT112 Concepts of Machine Learning (Spring 2026) are both introductory machine learning courses, but they differ in their focus on theoretical foundations versus practical applications.
+
+• IKT466 focuses more on the theoretical foundations of machine learning, including linear models, decision theory, and deep learning techniques.
+• IKT112, on the other hand, provides a broader introduction to machine learning concepts, including supervised, unsupervised, and reinforcement learning, as well as real-world applications.
+• IKT466 is a more in-depth course that covers advanced topics like regularization, optimization, and sequence modeling, whereas IKT112 takes a more general approach to machine learning.
+• The two courses also differ in their emphasis on practical skills versus theoretical understanding, with IKT466 placing more emphasis on hands-on experience with modern frameworks.
+
+Enter query: Which courses are related to cybersecurity?
+
+Retrieved sources:
+1. IKT523 | IKT523 Master's Thesis, Cyber Security (Autumn 2026)
+   Free-standing: Unknown
+   Credits: 30
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt523.html
+   distance: 0.2938
+2. IKT449 | IKT449 Selected Security Topics (Spring 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt449.html
+   distance: 0.2944
+3. IKT447 | IKT447 Trust, Threats, Risk and Vulnerability (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt447.html
+   distance: 0.3103
+4. IKT448 | IKT448 IKT-forskningsmetoder (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt448.html
+   distance: 0.3192
+5. IKT518 | IKT518 Security Protocols (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt518.html
+   distance: 0.3222
+6. IKT626 | IKT626 Main Results and Research Topics in Security (Autumn 2026)
+   Free-standing: Yes
+   Credits: 5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt626.html
+   distance: 0.3228
+7. IKT520 | IKT520 Security in IoT and Machine-Type Communication (Spring 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt520.html
+   distance: 0.3258
+8. IKT519 | IKT519 Blockchain and distributed ledger technology (Spring 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt519.html
+   distance: 0.3270
+
+Answer:
+For comparison questions, I will provide a response that meets the specified format.
+
+Which courses are related to cybersecurity?
+
+One short summary sentence:
+Courses IKT523 Master's Thesis, Cyber Security and IKT449 Selected Security Topics are directly related to cybersecurity.
+
+Three to five bullet points with the most important academic contrasts:
+
+* IKT523 Master's Thesis, Cyber Security focuses on applying knowledge to new areas within ICT/Information Systems security, while IKT449 Selected Security Topics covers a broader range of topics in information security.
+* IKT523 places more emphasis on research and development methods, whereas IKT449 focuses on problem-solving skills related to information security.
+* The learning outcomes for IKT523 include carrying out independent research and development projects, whereas IKT449 emphasizes the ability to apply knowledge in simple systems.
+* IKT523 is a free-standing course with 30 credits, while IKT449 is also free-standing but with only 7.5 credits.
+* IKT523 has a more comprehensive focus on cybersecurity issues from both a research and operational perspective, whereas IKT449 covers selected topics in information security.
+
+Enter query: Which courses are about wireless communication?
+
+Retrieved sources:
+1. IKT703 | IKT703 Mobile Radio Channels (Spring 2025)
+   Free-standing: Unknown
+   Credits: 5
+   https://www.uia.no/english/studies/courses/2025/spring/ikt703.html
+   distance: 0.2942
+2. IKT723 | IKT723 Wireless Prototyping using SDRs (Software Defined Radios) (Spring 2026)
+   Free-standing: Yes
+   Credits: 5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt723.html
+   distance: 0.3110
+3. IKT204 | IKT204 Data communication (Spring 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt204.html
+   distance: 0.3176
+4. IKT443 | IKT443 WiFi and Internet of Things (Spring 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt443.html
+   distance: 0.3260
+5. IKT444 | IKT444 Mobile Communication Networks (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt444.html
+   distance: 0.3362
+6. IKT709 | IKT709 Advanced Protocols for Mobile Communications (Autumn 2026)
+   Free-standing: Yes
+   Credits: 5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt709.html
+   distance: 0.3367
+7. IKT728 | IKT728 Sensors, Signal Processing, Wireless Communication and Machine Learning for Autonomous Systems (Autumn 2026)
+   Free-standing: Yes
+   Credits: 5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt728.html
+   distance: 0.3507
+
+Answer:
+For IKT703 Mobile Radio Channels, the course is about modeling, analyzing, and simulating mobile radio channels, focusing on single-input single-output (SISO) and multiple-input multiple-output (MIMO) fading channels.
+
+• The course covers various types of channel models, including frequency-nonselective and frequency-selective channels.
+• It provides a fundamental understanding of mobile radio channel modeling, which is essential for the development, evaluation, and testing of mobile radio communication systems.
+• The course is not specifically focused on wireless communication protocols or technologies, but rather on the underlying principles of mobile radio channel modeling.
+
+For IKT723 Wireless Prototyping using SDRs, the course is about wireless prototyping using Software Defined Radios (SDRs), focusing on designing and running algorithms on processors and Field-Programmable Gate Arrays (FPGAs).
+
+• The course uses the NI Software Defined Radio platform for wireless prototyping.
+• It covers design and run algorithms in LabVIEW Communications, MathScript, and C languages.
+• The course is not specifically focused on mobile radio channel modeling or wireless communication protocols, but rather on the practical application of SDRs for wireless prototyping.
+
+For IKT444 Mobile Communication Networks, the course is about cellular networks from first to fifth generation, covering radio access techniques and cellular core networks.
+
+• The course covers various aspects of cellular networks, including radio access networks and core networks.
+• It provides a comprehensive understanding of cellular networks, from circuit-switched to packet-switched and towards all-IP technologies.
+• The course is not specifically focused on wireless communication protocols or technologies, but rather on the overall architecture and components of cellular networks.
+
+For IKT204 Data Communication, the course is about data communication systems, covering network structures, protocols, and security.
+
+• The course covers basic principles of data communication systems, including network structures and protocols.
+• It provides a foundation for understanding how network components and protocols work together to enable data transport and online services.
+• The course is not specifically focused on wireless communication technologies or protocols, but rather on the general principles of data communication systems.
+
+For IKT443 WiFi and Internet of Things, the course is about IoT technologies and wireless networks, covering medium access mechanisms and routing principles.
+
+• The course provides a comprehensive understanding of IoT technologies and in-depth knowledge of wireless networks.
+• It covers various aspects of WiFi networks and multi-hop wireless networks, including medium access mechanisms and routing principles.
+• The course is not specifically focused on mobile radio channel modeling or cellular networks, but rather on the practical application of IoT technologies and wireless networks.
+
+For IKT728 Sensors, Signal Processing, Wireless Communication and Machine Learning for Autonomous Systems, the course is about sensors, signal processing, and machine learning for autonomous systems.
+
+• The course covers various aspects of sensor technology, including time-frequency analysis techniques.
+• It provides a foundation for understanding multi-modal data fusion and Al-based signal processing.
+• The course is not specifically focused on wireless communication technologies or protocols, but rather on the application of sensors, signal processing, and machine learning in autonomous systems.
+
+Enter query: Does UiA offer any AI courses?
+
+Retrieved sources:
+1. IKT443 | IKT443 WiFi and Internet of Things (Spring 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt443.html
+   distance: 0.3640
+2. IKT210 | IKT210 Cloud Infrastructure (Autumn 2026)
+   Free-standing: Unknown
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt210.html
+   distance: 0.3652
+3. IKT444 | IKT444 Mobile Communication Networks (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt444.html
+   distance: 0.3680
+4. IKT449 | IKT449 Selected Security Topics (Spring 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt449.html
+   distance: 0.3681
+5. IKT520 | IKT520 Security in IoT and Machine-Type Communication (Spring 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt520.html
+   distance: 0.3751
+6. IKT518 | IKT518 Security Protocols (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt518.html
+   distance: 0.3765
+7. IKT115 | IKT115 Introduction to Artificial Intelligence Technology (Autumn 2026)
+   Free-standing: No
+   Credits: 2.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt115.html
+   distance: 0.3768
+8. IKT715 | IKT715 Advanced Topics on Selected Areas in ICT (Autumn 2026)
+   Free-standing: No
+   Credits: 5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt715.html
+   distance: 0.3775
+
+Answer:
+UiA does offer AI courses, specifically IKT115 Introduction to Artificial Intelligence Technology (Autumn 2026) and IKT715 Advanced Topics on Selected Areas in ICT (Autumn 2026).
+
+• IKT115 is a non-free-standing course with 2.5 credits, while IKT715 is also non-free-standing but with 5 credits.
+• IKT115 focuses on different fields of artificial intelligence technology, whereas IKT715 covers advanced topics in selected areas of ICT.
+• IKT115 has a teaching approach that includes physical lectures and assignments, whereas IKT715 is primarily self-study-based.
+
+Note: There are no other AI courses explicitly mentioned in the provided context.
+
+
+
+\section{Hallucination sensitive quaryies}
+
+Enter query: Does IKT450 use Python?
+
+Retrieved sources:
+1. IKT450 | IKT450 Deep Neural Networks (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt450.html
+   distance: 0.0000
+
+Answer:
+The retrieved context does not explicitly state that IKT450 uses Python.
+
+
+• The course focuses on theoretical and practical aspects of neural networks, including deep learning models, convolutional neural networks, recurrent neural networks, autoencoders, and generative adversarial networks.
+• The course covers topics such as fundamentals of neural networks, optimizers, and training algorithms, but does not explicitly mention Python as a required tool or programming language.
+• The course has a combination of lectures, assignments, paper studies, lab, and report writing, with tasks done individually or in small groups.
+• The work load for the average student is approximately 200 hours, and the course is graded by a portfolio assessment and a postponed exam.
+
+Enter query: Does IKT115 teach quantum computing?
+
+Retrieved sources:
+1. IKT115 | IKT115 Introduction to Artificial Intelligence Technology (Autumn 2026)
+   Free-standing: No
+   Credits: 2.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt115.html
+   distance: 0.0000
+
+Answer:
+The retrieved context does not explicitly state that IKT115 teaches quantum computing.
+
+
+• The course focuses on artificial intelligence (AI) technology, including its historical development, key concepts and terminology, main paradigms such as machine learning, deep learning, and generative AI.
+• There is no mention of quantum computing in the course description or content.
+• The course emphasizes practical applications of AI, including user-friendly tools for developing simple AI applications.
+• Guest lecturers provide insight into specific and real-world applications of AI across different fields.
+• The course includes a reflection assignment to assess how AI can be applied within their own field.
+
+Enter query: Does UiA offer IKT999?
+
+Retrieved sources:
+No retrieval needed for this query.
+
+Answer:
+No indexed information was found for IKT999.
+
+
+
+\section{Robustness}
+
+Enter query: What is IKT-211?
+
+Retrieved sources:
+1. IKT211 | IKT211 Penetration Testing (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt211.html
+   distance: 0.0000
+
+Answer:
+1. IKT211 is a free-standing course that offers 7.5 credits, focusing on penetration testing and teaching students how to test network security using common tools like netcat, wireshark, nmap, aftercap, and metasploit.
+
+• The course has two main learning outcomes: knowing how to test the security of networks and understanding the importance of ethical behavior in vulnerability control.
+• Teaching methods include lectures, lab exercises, and group projects, with a focus on hands-on training using specially adapted machines and subject-related software and hardware.
+• Examination requirements include compulsory exercises that must be approved for the portfolio examination, which is graded and has no postponed exam option.
+• The course can be taken as a free-standing course, but students are advised to take DAT234 – Scripting and Hacking if they want to reduce credits due to overlapping content.
+
+Enter query: compare ikt211 ikt518
+
+Retrieved sources:
+1. IKT211 | IKT211 Penetration Testing (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt211.html
+   distance: 0.0000
+2. IKT518 | IKT518 Security Protocols (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt518.html
+   distance: 0.0000
+
+Answer:
+For ikt211 and ikt518, here is a comparison:
+
+The retrieved context does not explicitly state that both courses are taught in the same semester or have the same duration. However, both courses have the same credits (7.5) and are free-standing.
+
+* ikt211 focuses on penetration testing, including common tools like netcat, wireshark, nmap, aftercap, and metasploit, whereas ikt518 focuses on security protocols, including authentication and key-exchange protocols.
+* The learning outcomes of ikt211 emphasize the ability to test network security and use common tools, while ikt518 emphasizes a deeper understanding of security properties for designing authentication protocols and knowledge of specific protocols like IPsec, TLS, and EAP.
+* The teaching methods differ between the two courses, with ikt211 using lectures, lab exercises, and group projects, whereas ikt518's method is not explicitly stated in the retrieved context.
+* The recommended previous knowledge for ikt211 includes prior knowledge of Linux, while ikt518 requires IKT520-G Security in IoT and Machine-Type Communication or equivalent.
+
+Enter query: is ikt468 free standing
+
+Retrieved sources:
+No retrieval needed for this query.
+
+Answer:
+IKT468 — IKT468 Applied Algorithms (Spring 2026)
+Free-standing course: Yes
+Source: https://www.uia.no/english/studies/courses/2026/spring/ikt468.html
+
+
+
+
+
+Enter query: Where is UiA?
+
+Retrieved sources:
+No retrieval needed for this query.
+
+Answer:
+I could not find sufficiently relevant information in the indexed UiA IKT course data. The question may be outside the scope of this chatbot.
+
+Enter query: Tell me about economics.
+
+Retrieved sources:
+No retrieval needed for this query.
+
+Answer:
+I could not find sufficiently relevant information in the indexed UiA IKT course data. The question may be outside the scope of this chatbot.
+
+Enter query: Which courses are the easiest?
+
+Retrieved sources:
+No retrieval needed for this query.
+
+Answer:
+I could not find sufficiently relevant information in the indexed UiA IKT course data. The question may be outside the scope of this chatbot.
+
+Enter query: Hvilke fag handler om databaser?
+
+Retrieved sources:
+No retrieval needed for this query.
+
+Answer:
+I could not find sufficiently relevant information in the indexed UiA IKT course data. The question may be outside the scope of this chatbot.
+
+Enter query: Hvilke fag handler om kunstig intelligens?
+
+Retrieved sources:
+1. IKT448 | IKT448 IKT-forskningsmetoder (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt448.html
+   distance: 0.3751
+2. IKT632 | IKT632 Artificial Intelligence for Medical Image Analysis (Autumn 2026)
+   Free-standing: Yes
+   Credits: 5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt632.html
+   distance: 0.3883
+3. IKT452 | IKT452 Computer Vision (Spring 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt452.html
+   distance: 0.3950
+4. IKT724 | IKT724 Deep Learning for Engineers (Autumn 2026)
+   Free-standing: Yes
+   Credits: 5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt724.html
+   distance: 0.4018
+5. IKT469 | IKT469 Deep Neural Networks (Spring 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/spring/ikt469.html
+   distance: 0.4090
+6. IKT466 | IKT466 Introduction to Machine Learning (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt466.html
+   distance: 0.4100
+7. IKT457 | IKT457 Tsetlin Machines (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt457.html
+   distance: 0.4124
+8. IKT450 | IKT450 Deep Neural Networks (Autumn 2026)
+   Free-standing: Yes
+   Credits: 7.5
+   https://www.uia.no/english/studies/courses/2026/autumn/ikt450.html
+   distance: 0.4166
+
+Answer:
+For IKT448, the course focuses on research methods within ICT and cyber security, emphasizing privacy and social responsibility.
+
+• The course is free-standing and has a duration of 7.5 credits.
+• It covers qualitative and quantitative research methods within ICT research, with an emphasis on methods used within cyber security.
+• The learning outcomes include assessing research-ethical aspects and having insight into how cyber security fits into an overall ICT setting.
+
+For IKT632, the course focuses on artificial intelligence for medical image analysis.
+
+• The course is free-standing and has a duration of 5 credits.
+• It covers characterizing unique challenges in medical imaging data modalities, describing and implementing AI methods, and developing practical skills in biomedical image analysis using AI.
+• The learning outcomes include curating medical image data and designing and evaluating biomedical image analysis systems using AI.
+
+For IKT452, the course focuses on computer vision.
+
+• The course is free-standing and has a duration of 7.5 credits.
+• It covers topics such as object recognition, scene recognition, and deep neural networks for computer vision tasks.
+• The learning outcomes include developing practical skills necessary to design and implement computer vision applications.
+
+For IKT724, the course focuses on deep learning for engineers.
+
+• The course is free-standing and has a duration of 5 credits.
+• It covers topics such as estimation and detection methods, machine learning problems, optimization, and training in deep learning.
+• The learning outcomes include being able to formulate and apply the Deep Learning framework to solve practical problems in different application domains.
+
+For IKT469, the course focuses on deep neural networks.
+
+• The course is free-standing and has a duration of 7.5 credits.
+• It covers theoretical and practical aspects of neural networks, including advanced deep learning foundations and architectures.
+• The learning outcomes include applying explainability methods to analyze and interpret deep learning models.
+
+For IKT466, the course focuses on introduction to machine learning.
+
+• The course is free-standing and has a duration of 7.5 credits.
+• It covers topics such as training algorithms, optimizers, and working end-to-end pipelines in machine learning.
+• The learning outcomes include developing practical skills necessary to analyze, implement, and evaluate machine learning models using modern frameworks.
+
+For IKT457, the course focuses on Tsetlin machines.
+
+• The course is free-standing and has a duration of 7.5 credits.
+• It covers topics such as regression, convolution, auto-encoding, and composites in Tsetlin machines.
+• The learning outcomes include applying Tsetlin machine architectures within image analysis, natural language processing, and board games.
+
+For IKT110, the course focuses on artificial intelligence architecture.
+
+• The course is free-standing and has an unknown duration.
+• It covers topics such as training algorithms, evaluation, and developing practical AI software.
+• The learning outcomes include developing practical AI software and train and validate machine learning algorithms.
